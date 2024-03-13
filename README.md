@@ -3,5 +3,6 @@
 ##### 姓名：周俊辰
 ##### 系級：科技系二年級
 # 課程筆記區
+<a href="https://github.com/giraffe10884/112-2-/blob/main/hw01.ipynb">作業一</a>
 # 作業連結區
 # 專題連結區
