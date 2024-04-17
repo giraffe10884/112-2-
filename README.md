@@ -10,6 +10,6 @@
 <br>
 <a href="https://github.com/giraffe10884/112-2-/blob/main/hw03.ipynb">作業三</a>
 <a href="https://github.com/giraffe10884/112-2-/blob/main/ppt_nba_data.csv">csv檔</a>
-<a href="https://github.com/giraffe10884/112-2-/blob/main/ppt_nba_data.json">json檔</a>
+<a href="https://github.com/giraffe10884/112-2-/blob/main/ptt_nba_data.json">json檔</a>
 <br>
 # 專題連結區
